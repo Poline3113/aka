@@ -1,0 +1,11 @@
+pyproject.toml
+forth_acc/__init__.py
+forth_acc/cli.py
+forth_acc/isa.py
+forth_acc/machine.py
+forth_acc/translator.py
+forth_acc.egg-info/PKG-INFO
+forth_acc.egg-info/SOURCES.txt
+forth_acc.egg-info/dependency_links.txt
+forth_acc.egg-info/entry_points.txt
+forth_acc.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+[console_scripts]
+machine = forth_acc.cli:simulate_main
+translator = forth_acc.cli:translate_main
