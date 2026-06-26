@@ -21,7 +21,9 @@
 
 ## Архитектура процессора
 
-![]("datapath.png")
+![](datapath.png)
+
+![](control_unit.png)
 
 ### Регистры и память
 
